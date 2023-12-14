@@ -1,0 +1,6 @@
+streamlit
+pandas
+PIL
+pydeck
+matplotlib.pyplot
+altair
