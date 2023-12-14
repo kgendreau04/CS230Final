@@ -3,3 +3,4 @@ pandas
 Image
 pydeck
 altair
+matplotlib
