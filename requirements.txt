@@ -2,5 +2,4 @@ streamlit
 pandas
 Image
 pydeck
-matplotlib.pyplot
 altair
