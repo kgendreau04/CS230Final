@@ -1,6 +1,6 @@
 streamlit
 pandas
-PIL
+Image
 pydeck
 matplotlib.pyplot
 altair
